@@ -4,5 +4,6 @@
  * Description:
  */
 public class InitTest {
+  private String name = "init test class";
 
 }
