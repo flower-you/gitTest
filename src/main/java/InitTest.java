@@ -4,6 +4,8 @@
  * Description:
  */
 public class InitTest {
-  private String name = "flower modified init test  classremote ";
+  private String name = "flower-github modified init test  class remote,local change";
+
+  private Integer age = 0;
 
 }
