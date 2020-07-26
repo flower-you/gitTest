@@ -4,6 +4,6 @@
  * Description:
  */
 public class InitTest {
-  private String name = "init test class";
+  private String name = "flower modified init test  classremote ";
 
 }
